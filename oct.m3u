@@ -1,0 +1,345 @@
+#EXTM3U
+
+#EXTINF:-1,LISTA GRATIS X www.willytv.wordpress.com
+http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
+#EXTINF:-1, Consigue mas Listas en willytv.wordpress.com
+http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
+#EXTINF:-1, Listas privadas en Facebook: TECNO WILL PREMIUM
+http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
+
+
+
+#EXTINF:-1,TVE 24H TECNOWILL
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:-1,FDF | HD TECNOWILL
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1,Divinity | HD TECNOWILL
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1,Divinity 2 TECNOWILL
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTINF:-1,Divinity TECNOWILL
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
+#EXTINF:-1,BeMad TECNOWILL
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1,SPAIN:BOING TECNOWILL
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1,REAL MADRID TV HD TECNOWILL
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1,Real Madrid TV (English) TECNOWILL
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,Fight time (ufc) TECNOWILL
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1,Super 3 TECNOWILL
+http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
+#EXTINF:-1,Wow TV TECNOWILL
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1,HDFashion TECNOWILL
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+#EXTINF:-1,CGTN Espanol TECNOWILL
+http://live.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1,Marti TECNOWILL
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1,CGTN TECNOWILL
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1,Extrema TV TECNOWILL
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,Deutsche Welle Latino | SD TECNOWILL
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1,SAT TECNOWILL
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
+#EXTINF:-1,BE MAD TECNOWILL
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
+#EXTINF:-1,SP:Energy TECNOWILL
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#EXTINF:-1, ETBEITBEUS TECNOWILL
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+#EXTINF:-1,EXTVLCOPT:network-caching=1000 TECNOWILL
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:-1,ESPAÑA MURCIA TECNOWILL
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1,ESPAÑA NAVARRA TECNOWILL
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:-1,EXTVLCOPT:network-caching=1000 TECNOWILL
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1,EXTVLCOPT:network-caching=1000 TECNOWILL
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
+#EXTINF:-1,7TV Murcia TECNOWILL
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+#EXTINF:-1,13 TV TECNOWILL
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1,SP:Canal Parlamento - Madrid TECNOWILL
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+#EXTINF:-1,SP:324 - 324 Cataluña TECNOWILL
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1,SP:C. Extremadura - Extramadura TECNOWILL
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:-1,SP:TV3 - TV3 Cataluña TECNOWILL
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1,Canal 13 TV TECNOWILL
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1,SPAIN:TV Galicia Europa TECNOWILL
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,SPAIN:Vega Baja TV TECNOWILL
+http://185.29.68.24/tvb.m3u8
+#EXTINF:-1,ALCARRIA TV TECNOWILL
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1,3/24 TECNOWILL
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1,EXTVLCOPT:network-caching=1000 TECNOWILL
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1,Lebrija TV TECNOWILL
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1,Lasuper TV TECNOWILL
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+#EXTINF:-1,DJING TECNOWILL
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:-1,MUSIC BOX TECNOWILL
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+#EXTINF:-1,TV 538. TECNOWILL
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8
+#EXTINF:-1,Top Latino TECNOWILL
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:-1,Teleritmo | SD TECNOWILL
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1,M2O TV | SD TECNOWILL
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,Music Top | HD TECNOWILL
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,MUSIC TOP TECNOWILL
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1,Portal FoxMix | HD TECNOWILL
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1,RETRO MUSIC HD TECNOWILL
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Retro TV | SD TECNOWILL
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Radio Capital TV TECNOWILL
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
+#EXTINF:-1,MTV CLIPES 1 TECNOWILL
+http://rtmp.one.by:1200
+#EXTINF:-1,Music Choice | HD TECNOWILL
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1, TV3 TECNOWILL
+https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:tv3_web/chunklist_b1896000_DVR.m3u8
+#EXTINF:-1, 3/24 TECNOWILL
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:324_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1, Redbull TV TECNOWILL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1, Esport3 TECNOWILL
+https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000.m3u8
+#EXTINF:-1, Fighttime TECNOWILL
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w1335476872_b2596000.m3u8
+#EXTINF:-1, Extremadura TV TECNOWILL
+http://hlstv.canalextremadura.es/livetv/multistream.smil/chunklist_b664000_DVR.m3u8
+#EXTINF:-1, CMM TECNOWILL
+http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
+#EXTINF:-1, Castilla y Leon TV TECNOWILL
+https://cdn-s2-eu.nice264.com/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/chunklist_w767737026.m3u8?secHash=c49cbd1f6451d75f321f3b1e1af626a4
+#EXTINF:-1, Eitb 1 TECNOWILL
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8?sd=8&rebase=on
+#EXTINF:-1, Eitb 2 TECNOWILL
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-b.m3u8?sd=8&rebase=on
+#EXTINF:-1, Eitb Sat TECNOWILL
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8?sd=8&rebase=on
+#EXTINF:-1, Telemadrid TECNOWILL
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:-1, Canal 33 Madrid TECNOWILL
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklist_w974987108.m3u8
+#EXTINF:-1, R Murcia TV TECNOWILL
+https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Tele Valencia TECNOWILL
+https://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/chunklist_w304952231_b500000.m3u8
+#EXTINF:-1, Bon dia TV TECNOWILL
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/chunklist_b1296000.m3u8
+#EXTINF:-1, DH TV TECNOWILL
+https://secure2.todostreaming.es/live/tvstream-DHnew.m3u8
+#EXTINF:-1, Apunt TECNOWILL
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8?m=1541668367
+#EXTINF:-1, 11 HamaiKa TECNOWILL
+http://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
+#EXTINF:-1, Goiena TECNOWILL
+https://zuzenean.goienamedia.eus:8443/telebista.m3u8
+#EXTINF:-1, GITB TECNOWILL
+https://5940924978228.streamlock.net/8155/8155/.m3u8
+#EXTINF:-1, Orzmendi TECNOWILL
+https://5940924978228.streamlock.net/8161/8161/.m3u8
+#EXTINF:-1, Erlo TECNOWILL
+https://5940924978228.streamlock.net/8159/8159/.m3u8
+#EXTINF:-1, RTV Andorra TECNOWILL
+http://videos.rtva.ad:1935/live/rtva/chunklist_w1551361404.m3u8
+#EXTINF:-1, TVG TECNOWILL
+http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:-1, TVG A TECNOWILL
+https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+#EXTINF:-1, TVG M TECNOWILL
+https://momentog-crtvg.flumotion.com/crtvg/momentog/chunks.m3u8
+#EXTINF:-1, TVG 2 TECNOWILL
+https://musigal-crtvg.flumotion.com/crtvg/musigal_med/chunks.m3u8
+#EXTINF:-1, TVG 2 TECNOWILL
+https://infantil-crtvg.flumotion.com/crtvg/infantil/chunks.m3u8
+#EXTINF:-1, TVG C TECNOWILL
+https://cultural-crtvg.flumotion.com/crtvg/cultural/chunks.m3u8
+#EXTINF:-1, Levante TV TECNOWILL
+http://teledifusion.tv/levantetvlive/levantetvlive/chunklist_w1280876229.m3u8
+#EXTINF:-1, Canal Malaga TECNOWILL
+http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+#EXTINF:-1, PTV Malága TECNOWILL
+http://149.91.98.146:1935/live/stream/playlist.m3u8
+#EXTINF:-1, TV M Córdoba TECNOWILL
+http://teledifusion.tv/cordoba/cordobalive/chunklist_w207429400.m3u8
+#EXTINF:-1, Costa del Sol TECNOWILL
+https://secure.todostreaming.es/live/benalmadena-livestream.m3u8
+#EXTINF:-1, InterAlmeria TECNOWILL
+http://interalmeria.tv/directo/live.m3u8
+#EXTINF:-1, Onda Algeciras TV TECNOWILL
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:-1, Teleonuba TECNOWILL
+http://stream.teleonuba.es:1935/live/GdZpE8ef/chunklist_w705190121.m3u8
+#EXTINF:-1, RTVM TECNOWILL
+https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
+#EXTINF:-1, Mirame TV TECNOWILL
+https://593fa17dec176.streamlock.net:455/mirametv/mirametv/chunklist_w46131657.m3u8
+#EXTINF:-1, Melilla TECNOWILL
+https://5940924978228.streamlock.net/8009/8009/chunklist_w274949090.m3u8
+#EXTINF:-1, Cantabria TECNOWILL
+https://secure.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:-1, TV3 Càmeres TECNOWILL
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:beauties_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1, Canal 10 TECNOWILL
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1, Girona TV TECNOWILL
+http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:-1, C4 Mancha Centro TECNOWILL
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/chunklist_w1654916728.m3u8
+#EXTINF:-1, TeleBilbao TECNOWILL
+http://telebilbao.todostreaming.es/live/telebilbao-livestream.m3u8
+#EXTINF:-1, 25 TV TECNOWILL
+https://cdnlive.shooowit.net/25televisiolive/25tv.smil/chunklist_b300000.m3u8
+#EXTINF:-1, Intereconomía TECNOWILL
+https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/chunklist_w824706800_b1000000.m3u8
+#EXTINF:-1, TeleSafor TECNOWILL
+http://video.telesafor.com/hls/video_high.m3u8
+#EXTINF:-1, 33 TECNOWILL
+https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:c33_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1, Allsport TECNOWILL
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1, Adsport 1 TECNOWILL
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1, Adsport 2 TECNOWILL
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1, Logos TV TECNOWILL
+http://streamer1.streamhost.org:1935/salive/GMIalfah/chunklist_w1280060461.m3u8
+#EXTINF:-1, Martin TECNOWILL
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Unicanal TECNOWILL
+http://45.55.127.106/live/unicanal_src.m3u8
+#EXTINF:-1, Lancelot TECNOWILL
+http://62.210.141.18:1935/directo/lancelot.television/chunklist_w208549292.m3u8
+#EXTINF:-1, Travel TV TECNOWILL
+http://194.179.53.124:1935/live/traveltv/chunklist_w1040177902.m3u8
+#EXTINF:-1, Acuario 1 TECNOWILL
+https://videos3.earthcam.com/fecnetwork/napcrcam1.flv/chunklist_w349669266.m3u8
+#EXTINF:-1, Acuario 2 TECNOWILL
+http://live.planeta-online.tv:1935/public/channel_3/chunklist_w1076944328.m3u8
+#EXTINF:-1, RTVE TECNOWILL
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583041/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, TVE TECNOWILL
+https://rtve-hlsvod.secure.footprint.net/resources/TE_NGVA/mp4/0/3/1477389384630.mp4
+#EXTINF:-1, TVE Botón Rojo TECNOWILL
+https://rtve-hlsvod.secure.footprint.net/resources/TE_NGVA/mp4/3/1/1378280211013.mp4
+#EXTINF:-1, Canal Parlamento TECNOWILL
+https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, Congreso Enlace TECNOWILL
+http://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8
+#EXTINF:-1, Canal Parlament Catalunya TECNOWILL
+http://cdn.s6.eu.nice264.com:1935/niceLiveServer/pcatlive_canal1_MB_800/chunklist_w1132438077.m3u8
+#EXTINF:-1, EuropaPress TECNOWILL
+https://cdnlive.shooowit.net/europapresslive/ep.smil/chunklist_b500000.m3u8
+#EXTINF:-1, EuropaPress TECNOWILL
+https://cdnlive.shooowit.net/europapresslive/smil:ep.smil/chunklist_b500000.m3u8?t=8694
+#EXTINF:-1, Canal Sur Turismo TECNOWILL
+https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/chunklist_w592418930.m3u8
+#EXTINF:-1, Canal Sur Cocina TECNOWILL
+https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/chunklist_w1882971344.m3u8
+#EXTINF:-1, Canal Sur La Banda TECNOWILL
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/chunklist_w993555387.m3u8
+#EXTINF:-1, Canal Sur Flamenco TECNOWILL
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/chunklist_w1907188452.m3u8
+#EXTINF:-1, Canal Sur Enlace 1 TECNOWILL
+http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_01/chunklist_b2128000.m3u8
+#EXTINF:-1, Canal Sur Enlace 2 TECNOWILL
+http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_02/chunklist_b2128000.m3u8
+#EXTINF:-1, CCMA Web1 TECNOWILL
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:oca1_web/playlist.m3u8
+#EXTINF:-1, CCMA Web2 TECNOWILL
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:oca2_web/playlist.m3u8
+#EXTINF:-1, DATA TEST I TECNOWILL
+https://5b45171a7ade6.streamlock.net/taroteame/tarot_web/chunklist_w1964367282.m3u8
+#EXTINF:-1, DATA TEST K TECNOWILL
+http://149.12.64.81:8080/hls/tarotvision.m3u8
+#EXTINF:-1, DATA TEST O TECNOWILL
+https://live-edge-sxb-1.cdn.enetres.net/B7456E01B090498DAF2F191C36DF29DC023/live-500/index.m3u8
+#EXTINF:-1, DATA TEST P TECNOWILL
+https://5b45171a7ade6.streamlock.net/taroteame/tarot_web/chunklist_w1138027637.m3u8
+#EXTINF:-1, RTV Ceuta TECNOWILL
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/chunklist_w1981025658.m3u8
+#EXTINF:-1, Onda Algeciras TECNOWILL
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:-1, TV Melilla TECNOWILL
+https://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/live_source/chunks.m3u8
+#EXTINF:-1, RTV Canarias TECNOWILL
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w1237217280_b480000_sles.m3u8
+#EXTINF:-1, Canal Costa TECNOWILL
+http://stream.canalcostatv.es:1935/web/IKbtqOuj/chunklist_w713235242.m3u8
+#EXTINF:-1, CondadoVision TECNOWILL
+http://145.239.141.154:1935/live/uSCQc5ky/chunklist_w402407152.m3u8
+#EXTINF:-1, Ribera TV TECNOWILL
+http://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF:-1, TV4 TECNOWILL
+http://common01.todostreaming.es/live/tarson-livestream.m3u8
+#EXTINF:-1, Hellin TV TECNOWILL
+http://hellin-hls-live.flumotion.com/hellin/hellin-live_source/chunks.m3u8
+#EXTINF:-1, Teleribera TECNOWILL
+http://37.187.7.106/teleribera/live.m3u8
+#EXTINF:-1, Huesca TV TECNOWILL
+https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
+#EXTINF:-1, Estepona Tv TECNOWILL
+https://5b38ce71f1f00.streamlock.net/8122/8122/chunklist_w1406979530.m3u8
+#EXTINF:-1, San Roque TV TECNOWILL
+http://common01.todostreaming.es/live/sanroque-livestream.m3u8
+#EXTINF:-1, Canal Cuatro Tenerife TECNOWILL
+https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w21705959.m3u8
+#EXTINF:-1, Canal 4 Baleares TECNOWILL
+http://149.202.68.178:1935/live/peprecasens/chunklist_w323130386.m3u8
+#EXTINF:-1, Lebrija TV TECNOWILL
+http://212.104.160.156:1935/live/lebrijatv2/.m3u8?wowzasessionid=763367090
+#EXTINF:-1, Canal 10TV TECNOWILL
+https://5940924978228.streamlock.net/8269/8269.smil/chunklist_w1179958147_b850000_slen.m3u8
+#EXTINF:-1, Miami TV TECNOWILL
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/.m3u8
+#EXTINF:-1, Jasmin TV TECNOWILL
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8
+#EXTINF:-1, 5TV TECNOWILL
+http://live.gvstream.net:1935/e-tv-video/play.stream/chunklist_w2032801944.m3u8
+#EXTINF:-1, Carta de Ajuste TECNOWILL
+https://tecnicaparaaudiovisuales.files.wordpress.com/2014/12/100-new.jpg
+#EXTINF:-1, DW TECNOWILL
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, Aljazeera TECNOWILL
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
+#EXTINF:-1, France24 TECNOWILL
+http://f24hls-i.akamaihd.net/hls/live/520844/F24_ES_LO_HLS/master_900.m3u8
+#EXTINF:-1, 10 Tenerife TECNOWILL
+https://5940924978228.streamlock.net/8269/8269.smil/chunklist_w1066962219_b850000_slen.m3u8
+#EXTINF:-1, Sagunto TV TECNOWILL
+https://5940924978228.streamlock.net/Directo1_1/Directo1_1.smil/.m3u8
+#EXTINF:-1, +24 TECNOWILL
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/irtve03_lv3_aosv4_gl0-audio=128000-video=1500000.m3u8
+#EXTINF:-1, DoñanaTV TECNOWILL
+https://secure.todostreaming.es/live/disvision-alm.m3u8
+#EXTINF:-1, InterAlmeria TECNOWILL
+http://interalmeria.tv/directo/live.m3u8
+#EXTINF:-1,  Stadium TECNOWILL
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:-1, Cameres TECNOWILL
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:beauties_web/chunklist_b1296000_DVR.m3u8
